@@ -48,7 +48,7 @@ changelog:
 release:
   github:
     owner: kubehub-io
-    name: passthrough-kubelet-token-provider
+    name: passthrough-kubelet-credential-provider
   footer: >-
 
     ---
